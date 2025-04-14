@@ -1,4 +1,9 @@
 {
+  "metadata": {
+    "version":"1.0",
+    "languageName:":"English",
+    "isLeftToRight":true
+  }
   "elements" : [ {
     "constraintsSet" : {
       "height" : {
